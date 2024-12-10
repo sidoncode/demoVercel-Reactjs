@@ -9,6 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+
+        <p>
+          Hello this is an v2 version - which is pushed from laptop to vercel(CI/CD Part)
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
